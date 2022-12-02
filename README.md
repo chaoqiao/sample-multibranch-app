@@ -1,7 +1,1 @@
-# multibranch-sample-app
-
-This is a new line.
-
-Add new line
-
-Add new line
+# sample-multibranch-pipeline
